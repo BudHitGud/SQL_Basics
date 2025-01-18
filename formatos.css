@@ -1,0 +1,40 @@
+table{
+	
+	text-align: center;
+	
+	
+}
+th{
+	
+	size: 14px;
+}
+
+h1{
+	color:green;
+}
+
+h2{
+	color:blue;
+}
+
+body{
+	
+	bakcground-color: grey;
+}
+
+td {
+  border-radius: 25px;
+  border: 2px solid #0000ff;
+  padding: 20px;
+  width: 200px;
+  height: 20px;
+}
+
+th {
+  border-radius: 25px;
+  background-golor:grey;
+  border: 6px solid #0000a0;
+  padding: 20px;
+  width: 200px;
+  height: 20px;
+}

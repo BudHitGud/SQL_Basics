@@ -6,6 +6,8 @@ create table Clientes(
     Direccion varchar(50)
 );
 
+
+
 create table Proveedores(
     IdCliente integer primary key,
 	nombre varchar(20),
